@@ -1,7 +1,0 @@
-﻿namespace CustomCommandsCS
-{
-    class Program
-    {
-
-    }
-}
